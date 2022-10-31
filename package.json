@@ -1,0 +1,19 @@
+{
+  "name": "listcogs-github",
+  "version": "1.0.0",
+  "description": "React/Redux/Mongo/TS Node 🤘",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/busterbogheart/listcogs.git"
+  },
+  "author": "Ethan Kemp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busterbogheart/listcogs/issues"
+  },
+  "homepage": "https://github.com/busterbogheart/listcogs#readme"
+}
